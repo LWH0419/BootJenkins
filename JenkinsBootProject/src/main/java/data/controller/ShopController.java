@@ -20,4 +20,5 @@ public class ShopController {
 		model.setViewName("gitshop/shoplist");
 		return model;
 	}
+	
 }
